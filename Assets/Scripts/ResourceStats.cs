@@ -13,11 +13,6 @@ public class ResourceStats : MonoBehaviour {
     // processed goods
 
 	void Start () {
-        food = 0;
-        lumber = 0;
-        cotton = 0;
-        fur = 0;
-        ore = 0;
 	}
 
 
