@@ -19,4 +19,6 @@ public class ResourceStats : MonoBehaviour {
         fur = 0;
         ore = 0;
 	}
+
+
 }
