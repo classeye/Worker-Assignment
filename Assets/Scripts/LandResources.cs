@@ -48,9 +48,7 @@ public class LandResources : MonoBehaviour {
     void Start () {
         Resources = GameObject.Find("GameManager").GetComponent<ResourceStats>();
         calcYield();
-        testOutput();    
-        
-
+        testOutput();
     }
 
     void testOutput()
